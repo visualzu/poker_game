@@ -1,0 +1,10 @@
+Send_poker.v,verilog,xil_defaultlib,../../../../sources_1/new/Send_poker.v,
+poke_arrange.v,verilog,xil_defaultlib,../../../../sources_1/new/poke_arrange.v,
+poker_comp.v,verilog,xil_defaultlib,../../../../sources_1/new/poker_comp.v,
+poker_comp2.v,verilog,xil_defaultlib,../../../../sources_1/new/poker_comp2.v,
+receive_poker.v,verilog,xil_defaultlib,../../../../sources_1/new/receive_poker.v,
+sort.v,verilog,xil_defaultlib,../../../../sources_1/new/sort.v,
+uart_rx.v,verilog,xil_defaultlib,../../../../sources_1/new/uart_rx.v,
+uart_tx.v,verilog,xil_defaultlib,../../../../sources_1/new/uart_tx.v,
+uart_to_poker.v,verilog,xil_defaultlib,../../../../sources_1/new/uart_to_poker.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sat Sep 28 16:38:23 2024
+# Process ID: 49352
+# Current directory: D:/FPGA/POKE_V4/project_4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent39904 D:\FPGA\POKE_V4\project_4\project_4.xpr
+# Log file: D:/FPGA/POKE_V4/project_4/vivado.log
+# Journal file: D:/FPGA/POKE_V4/project_4\vivado.jou
+# Running On: LAPTOP-5FA7RAVE, OS: Windows, CPU Frequency: 2419 MHz, CPU Physical cores: 24, Host memory: 33951 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/FPGA/POKE_V4/project_4/project_4.xpr
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 32
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 32
+wait_on_run impl_1

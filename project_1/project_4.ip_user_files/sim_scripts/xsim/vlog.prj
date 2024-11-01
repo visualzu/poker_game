@@ -1,0 +1,14 @@
+verilog xil_defaultlib  \
+"../../../../sources_1/new/Send_poker.v" \
+"../../../../sources_1/new/poke_arrange.v" \
+"../../../../sources_1/new/poker_comp.v" \
+"../../../../sources_1/new/poker_comp2.v" \
+"../../../../sources_1/new/receive_poker.v" \
+"../../../../sources_1/new/sort.v" \
+"../../../../sources_1/new/uart_rx.v" \
+"../../../../sources_1/new/uart_tx.v" \
+"../../../../sources_1/new/uart_to_poker.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
